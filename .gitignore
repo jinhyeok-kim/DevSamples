@@ -1,0 +1,22 @@
+*.iml
+.gradle
+/local.properties
+
+# andoridstudioa IDEA
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+/build
+/captures
+.externalNativeBuild
+
+# built application files
+*.apk
+*.ap_
